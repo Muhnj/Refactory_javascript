@@ -1,6 +1,6 @@
 # Introduction to JavaScript
 
-<img src="https://raw.githubusercontent.com/Vera24-vee/Refactory_javascript/main/Refactory_js/week4/Game/Refactory_javascript-touter.zip" alt="JavaScript Introduction" width="100%" />
+<img src="./Refactory_javascript/download.jpeg" alt="JavaScript Introduction" width="100%" />
 
 JavaScript (JS) is a versatile programming language that runs on the web, used to create interactive websites and web applications.
 
